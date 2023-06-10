@@ -203,7 +203,7 @@ namespace PilingPelikula
                                 Console.WriteLine("\n––––––––––––––––––––––––––");
                                 Console.WriteLine("Heneral Luna synopsis: ");
                                 Console.WriteLine("\nIn 1898, Gen. Antonio Luna (John Arcilla) faces resistance from his own countrymen as he fights for freedom during the Philippine-American War.");
-                                Console.WriteLine("––––––––––––––––––––––––––––");
+                                Console.WriteLine("\n––––––––––––––––––––––––––––");
                                 break;
                             case 4:
                                 continue;
@@ -235,7 +235,3 @@ namespace PilingPelikula
 
     }
 }
-
-
-
-
