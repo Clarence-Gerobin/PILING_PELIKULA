@@ -89,13 +89,22 @@ namespace PilingPelikula
                         switch (movieChoice)
                         {
                             case 1:
-                                Console.WriteLine("\nClarita synopsis: A young woman is apprehended and held by police when they suspect that she is possessed by a demon.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––");
+                                Console.WriteLine("Clarita synopsis:");
+                                Console.WriteLine("\nA young woman is apprehended and held by police when they suspect that she is possessed by a demon.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––");
                                 break;
                             case 2:
-                                Console.WriteLine("\nAurora synopsis: The passenger ship Aurora mysteriously collides into the rocky sea threatening an entire island. \nA young woman and her sister must both survive by finding the missing dead for a bounty.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––");
+                                Console.WriteLine("Aurora synopsis:");
+                                Console.WriteLine("\nThe passenger ship Aurora mysteriously collides into the rocky sea threatening an entire island. \nA young woman and her sister must both survive by finding the missing dead for a bounty.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––");
                                 break;
                             case 3:
-                                Console.WriteLine("\nSunod synopsis: A woman who is desperate to find the cure for her daughter's illness takes a job at a call center, only to be haunted by the ghost in it.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––");
+                                Console.WriteLine("Sunod synopsis:");
+                                Console.WriteLine("\nA woman who is desperate to find the cure for her daughter's illness takes a job at a call center, only to be haunted by the ghost in it.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––");
                                 break;
                             case 4:
                                 continue;
@@ -113,13 +122,22 @@ namespace PilingPelikula
                         switch (movieChoice)
                         {
                             case 1:
-                                Console.WriteLine("\nBooba synopsis: A girl promises to her dying mother that she'll find her long-lost sister who ran away from home.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––");
+                                Console.WriteLine("Booba synopsis:");
+                                Console.WriteLine("\nA girl promises to her dying mother that she'll find her long-lost sister who ran away from home.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––");
                                 break;
                             case 2:
-                                Console.WriteLine("\nPrivate Benjamin synopsis: When civil war breaks out in the Philippines, \na gay dance teacher (Vice Ganda) is forced to join the military in order to spare his ailing father.");
+                                Console.WriteLine("\n––––––––––––––––––––––––––––––");
+                                Console.WriteLine("Private Benjamin synopsis:");
+                                Console.WriteLine("\nWhen civil war breaks out in the Philippines, \na gay dance teacher (Vice Ganda) is forced to join the military in order to spare his ailing father.");
+                                Console.WriteLine("\n––––––––––––––––––––––––––––––");
                                 break;
                             case 3:
-                                Console.WriteLine("\nGirl, Boy, Bakla, Tomboy synopsis: Quadruplets are split into pairs and raised apart by their parents. \nThey meet as adults by accident and have a tough choice to make when one needs a liver transplant.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––––––––––––––");
+                                Console.WriteLine("Girl, Boy, Bakla, Tomboy synopsis:");
+                                Console.WriteLine("\nQuadruplets are split into pairs and raised apart by their parents. \nThey meet as adults by accident and have a tough choice to make when one needs a liver transplant.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––––––––––––––");
                                 break;
                             case 4:
                                 continue;
@@ -137,13 +155,22 @@ namespace PilingPelikula
                         switch (movieChoice)
                         {
                             case 1:
-                                Console.WriteLine("\nBarcelona: A Love Untold synopsis: While earning a degree in Spain, \na young architecture student dealing with grief meets a fellow expatriate trying to escape her past.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––––––––––––––––");
+                                Console.WriteLine("Barcelona: A Love Untold synopsis: ");
+                                Console.WriteLine("\nWhile earning a degree in Spain, \na young architecture student dealing with grief meets a fellow expatriate trying to escape her past.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––––––––––––––––");
                                 break;
                             case 2:
-                                Console.WriteLine("\nNever Not Love You synopsis: Two young lovers meet and fall in love. \nTogether they build a life until career opportunities bring them out of the country. \nOut of the comforts of home and with individual careers going different directions. Will their love survive?");
+                                Console.WriteLine("\n––––––––––––––––––––––––––––––––––");
+                                Console.WriteLine("Never Not Love You synopsis: ");
+                                Console.WriteLine("\nTwo young lovers meet and fall in love. \nTogether they build a life until career opportunities bring them out of the country. \nOut of the comforts of home and with individual careers going different directions. Will their love survive?");
+                                Console.WriteLine("\n––––––––––––––––––––––––––––––––––");
                                 break;
                             case 3:
-                                Console.WriteLine("\nVince, Kath and James synopsis: Love can be complicated, \nespecially when Vince agrees to secretly woo Kath via text on behalf of James, while falling for her, too.");
+                                Console.WriteLine("\n––––––––––––––––––––––––––––––––––––");
+                                Console.WriteLine("Vince, Kath and James synopsis: ");
+                                Console.WriteLine("\nLove can be complicated, \nespecially when Vince agrees to secretly woo Kath via text on behalf of James, while falling for her, too.");
+                                Console.WriteLine("\n––––––––––––––––––––––––––––––––––––");
                                 break;
                             case 4:
                                 continue;
@@ -161,13 +188,22 @@ namespace PilingPelikula
                         switch (movieChoice)
                         {
                             case 1:
-                                Console.WriteLine("\nThe Kingmaster synopsis: Filmmaker Lauren Greenfield examines the controversial history of Filipino politician Imelda Marcos and her family.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––––––––");
+                                Console.WriteLine("The Kingmaster synopsis: ");
+                                Console.WriteLine("\nFilmmaker Lauren Greenfield examines the controversial history of Filipino politician Imelda Marcos and her family.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––––––––");
                                 break;
                             case 2:
-                                Console.WriteLine("\nGoyo: Ang batang Heneral synopsis: The life of Gregorio `Goyo' del Pilar, one of the youngest generals during the Philippine-American War, \nwho fought in the Battle of Tirad Pass.");
+                                Console.WriteLine("\n––––––––––––––––––––––––––––––––––––––––");
+                                Console.WriteLine("Goyo: Ang batang Heneral synopsis:");
+                                Console.WriteLine("\nThe life of Gregorio `Goyo' del Pilar, one of the youngest generals during the Philippine-American War, \nwho fought in the Battle of Tirad Pass.");
+                                Console.WriteLine("\n–––––––––––––––––––––––––––––––––––––––––");
                                 break;
                             case 3:
-                                Console.WriteLine("\nHeneral Luna synopsis: In 1898, Gen. Antonio Luna (John Arcilla) faces resistance from his own countrymen as he fights for freedom during the Philippine-American War.");
+                                Console.WriteLine("\n––––––––––––––––––––––––––");
+                                Console.WriteLine("Heneral Luna synopsis: ");
+                                Console.WriteLine("\nIn 1898, Gen. Antonio Luna (John Arcilla) faces resistance from his own countrymen as he fights for freedom during the Philippine-American War.");
+                                Console.WriteLine("––––––––––––––––––––––––––––");
                                 break;
                             case 4:
                                 continue;
