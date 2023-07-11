@@ -75,6 +75,7 @@ namespace PilingPelikula
                         Console.ForegroundColor = ConsoleColor.Cyan;
                         Console.WriteLine("\nExiting the program...");
                         Console.WriteLine("Salamat at sa susunod ulit!");
+                        Console.ResetColor();
                         break;
                     default:
                         Console.ForegroundColor = ConsoleColor.Red;
@@ -147,6 +148,7 @@ namespace PilingPelikula
                                 Console.ForegroundColor = ConsoleColor.Cyan;
                                 Console.WriteLine("\nExiting the program...");
                                 Console.WriteLine("Salamat at sa susunod ulit!");
+                                Console.ResetColor();
                                 break;
                             default:
                                 Console.ForegroundColor = ConsoleColor.Red;
@@ -207,6 +209,7 @@ namespace PilingPelikula
                                 exitProgram = true;
                                 Console.WriteLine("\nExiting the program...");
                                 Console.WriteLine("Salamat at sa susunod ulit!");
+                                Console.ResetColor();
                                 break;
                             default:
                                 Console.ForegroundColor = ConsoleColor.Red;
@@ -270,6 +273,7 @@ namespace PilingPelikula
                                 exitProgram = true;
                                 Console.WriteLine("\nExiting the program...");
                                 Console.WriteLine("Salamat at sa susunod ulit!");
+                                Console.ResetColor();
                                 break;
                             default:
                                 Console.ForegroundColor = ConsoleColor.Red;
@@ -333,6 +337,7 @@ namespace PilingPelikula
                                 exitProgram = true;
                                 Console.WriteLine("\nExiting the program...");
                                 Console.WriteLine("Salamat at sa susunod ulit!");
+                                Console.ResetColor();
                                 break;
                             default:
                                 Console.ForegroundColor = ConsoleColor.Red;
